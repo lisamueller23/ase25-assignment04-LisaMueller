@@ -1,0 +1,29 @@
+{
+  "Pasta": [
+    "pasta",
+    "tomato sauce",
+    "olive oil",
+    "cheese"
+  ],
+  "Pizza": [
+    "pizza dough",
+    "tomato sauce",
+    "mozzarella cheese"
+  ],
+  "Burger": [
+    "burger buns",
+    "beef patty",
+    "salad",
+    "tomato",
+    "cheddar cheese"
+  ],
+  "Salad": [
+    "salad",
+    "cucumber",
+    "tomato",
+    "pepper",
+    "avocado",
+    "olive oil",
+    "lemon juice"
+  ]
+}
